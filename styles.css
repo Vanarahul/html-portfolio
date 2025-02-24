@@ -377,6 +377,9 @@ hr{
 .back ol li:nth-child(5) {
   animation-delay: 9s;
 }
+.back ol li:nth-child(6) {
+  animation-delay: 11s;
+}
 
 @keyframes typing {
   from {
@@ -698,6 +701,10 @@ hr{
   animation-delay: 9s;
 }
 
+  .back ol li:nth-child(6) {
+  animation-delay: 11s;
+}
+  
 @keyframes typing {
   from {
       width: 0;
